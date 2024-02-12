@@ -24,9 +24,7 @@ public class StudentList {
        {
            System.out.println(s.getName());
            
-           System..out.println("Hey ! I am Harnoor ");
-           System.out.println("I have made a  change :)");
-           
+           System..out.println("Hey ! I am Harnoor ")
        }
         
     }
